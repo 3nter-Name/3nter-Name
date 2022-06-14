@@ -20,3 +20,12 @@ I have experience from different sources in different coding languages and frame
 - HTML
 - PHP
   - Laravel
+
+## Contact Info!!
+
+Feel free to contact me in any of these ways
+- @Enter-Name#0314 on discord
+- email [Enter-Name@outlook.com](enter-name@outlook.com)
+
+Also feel free to join the discord servers I am a part of:
+(coming soon)
