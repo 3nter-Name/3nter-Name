@@ -28,4 +28,4 @@ Feel free to contact me in any of these ways
 - email [Enter-Name@outlook.com](enter-name@outlook.com)
 
 Also feel free to join the discord servers I am a part of:
-(coming soon)
+  The Cavern! (Modded Minecraft(Bedrock) Prison Server) Code: [S3P4EfWJSX](https://discord.gg/S3P4EfWJSX)
