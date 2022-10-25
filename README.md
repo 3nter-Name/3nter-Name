@@ -6,11 +6,11 @@ I am a begining developer that is always looking to learn more about just about 
 
 ## What Have I Done & What Am I Doing?
 
-I mainly mod minecraft in my free time,
-  currently working on a project called Grand Forging for bedrock edition
-  also working on a team making a large scale bedrock realm
+I am Teaching myself game development through trail and error by creating my own game with some friends
+
+I am also a part of a large scale Minecraft project called The Cavern
   
-I am going to college for Computer & Information Technology
+I am going to Purdue University for Computer & Information Technology
 
 I have experience from different sources in different coding languages and frameworks like:
 - Java
@@ -20,6 +20,7 @@ I have experience from different sources in different coding languages and frame
 - HTML
 - PHP
   - Laravel
+- Python
 
 ## Contact Info!!
 
