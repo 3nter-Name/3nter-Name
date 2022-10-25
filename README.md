@@ -6,6 +6,8 @@ I am a begining developer that is always looking to learn more about just about 
 
 ## What Have I Done & What Am I Doing?
 
+I am an intern at Medsitter in their Research & Development department
+
 I am Teaching myself game development through trail and error by creating my own game with some friends
 
 I am also a part of a large scale Minecraft project called The Cavern
