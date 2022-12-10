@@ -23,6 +23,12 @@ I have experience from different sources in different coding languages and frame
 - PHP
   - Laravel
 - Python
+- C
+- C++
+- C#
+- TypeScript
+- Vue
+- Node
 
 ## Contact Info!!
 
