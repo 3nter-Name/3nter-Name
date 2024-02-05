@@ -6,7 +6,7 @@ I am a beginning developer who is always looking to learn more about just about 
 
 ## What Have I Done & What Am I Doing?
 
-I was an intern at ID Solutions in their Research & Development department for 2 years (01/2022-01/2024)
+I was an intern at Collette Health (formally MedSitter) in their Research & Development department for 2 years (01/2022-01/2024)
 
 I am Teaching myself game development through trial and error by creating my own game with some friends
 
